@@ -1,7 +1,7 @@
 # very_simple_docker_example
 
 
-# $ sudo docker build --tag simple_test .
+$ sudo docker build --tag simple_test .
 ```
 Sending build context to Docker daemon   72.7kB
 Step 1/3 : FROM python:3.8.5-alpine3.12
