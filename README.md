@@ -15,3 +15,8 @@ Removing intermediate container 6f6d24980416
 Successfully built 3458cf3daa5e
 Successfully tagged simple_test:latest
 ```
+
+$ sudo docker run simple_test
+```
+Hello-world
+```
