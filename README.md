@@ -1,4 +1,4 @@
-# very_simple_docker_example
+# very simple docker example
 
 
 $ sudo docker build --tag simple_test .
